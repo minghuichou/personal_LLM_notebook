@@ -1,4 +1,5 @@
-![image (1)](https://github.com/user-attachments/assets/c8dcbff1-fc55-40c2-a410-7f03479fbf14)
+![当青鸟再次响起之时！我们知道曾经的火影又回来了！_哔哩哔哩_bilibili @02-29 70 1624203313015](https://github.com/user-attachments/assets/7c43265d-ad4c-459c-ba54-03a40b28aa17)
+
 # personal_LLM_notebook
 这是书生大模型暑假场的个人仓库
 
@@ -8,6 +9,9 @@
 
 
 以下是作业笔记链接：
+
 [L0-Linux](https://juejin.cn/post/7398715556785668131)
+
 [L0-Python](https://juejin.cn/post/7398725202544803880)
-[L0-Git]()
+
+[L0-Git](https://juejin.cn/post/7398748102374228002)
