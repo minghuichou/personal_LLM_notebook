@@ -5,3 +5,9 @@
 这暂时是一个笔记仓库，后面也许会做别的。
 
 该活动的链接是[大模型实战营](https://github.com/InternLM/Tutorial)大家可以来学习
+
+
+以下是作业笔记链接：
+[L0-Linux](https://juejin.cn/post/7398715556785668131)
+[L0-Python](https://juejin.cn/post/7398725202544803880)
+[L0-Git]()
